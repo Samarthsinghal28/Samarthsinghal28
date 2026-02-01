@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Singhal</h1>
 # 💫 About Me:
-🔭 I’m a final year undergraduate student at IIT Ropar.<br>🌱: I am interested in Agentic AI, Machine Learning, Web Development, CP, and FinTech.<br>👯  Looking forward to work on new ideas and collaborate on interesting projects<br>💬 Lets discuss agent AI Agents.<br>
+🔭 I’m a final year undergraduate student at IIT Ropar.<br>🌱: I am interested in Agentic AI, Machine Learning, Web Development, CP, FinTech, and Quant.<br>👯  Looking forward to work on new ideas and collaborate on interesting projects<br>💬 Lets discuss agent AI and Quant.<br>
 
 
 ## 🌐 Socials:
